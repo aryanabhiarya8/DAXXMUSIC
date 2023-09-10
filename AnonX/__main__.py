@@ -63,7 +63,7 @@ async def init():
     except:
         pass
     await Anon.decorators()
-    LOGGER("AnonX").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝐃𝐀𝐗𝐗♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("AnonX").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️Made With Love By Aryan♨️\n╚═════ஜ۩۞۩ஜ════╝")
     await idle()
 
 
@@ -71,3 +71,4 @@ if __name__ == "__main__":
     loop.run_until_complete(init())
     LOGGER("AnonX").info("Sᴛᴏᴘɪɴɢ Dᴀxx Mᴜsɪᴄ Bᴏᴛ...")
     
+
